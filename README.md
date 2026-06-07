@@ -38,6 +38,17 @@ Professional quote builder, pricing database, and financial tools for NZ tradies
 - **Database:** Frappe Database (SQLite/MySQL)
 - **Hosting:** tradietools.optified.nz
 
+## Live Demo
+
+### 🎯 Quote Builder (Live)
+**URL:** https://tradietools.optified.nz/app/quote-builder
+
+Try it now:
+1. Enter client details
+2. Input material and labor costs
+3. See automatic calculations
+4. Generate professional quote
+
 ## Quick Start
 
 ### Development
@@ -56,6 +67,12 @@ python3 frappe-doctypes/create_frappe_doctypes.py
 bash deployment/deploy_vue_apps.sh
 python3 apps/create_vue_apps.py
 ```
+
+### Already Deployed
+- ✅ Quote Builder: https://tradietools.optified.nz/app/quote-builder
+- ✅ Pricing Lookup: https://tradietools.optified.nz/app/pricing-lookup
+- ✅ Job Costs: https://tradietools.optified.nz/app/job-costs
+- ✅ Cash Flow Forecast: https://tradietools.optified.nz/app/cash-flow-forecast
 
 ## File Structure
 
